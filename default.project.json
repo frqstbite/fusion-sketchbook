@@ -1,0 +1,9 @@
+{
+  "name": "fusion-sketchbook",
+  "tree": {
+    "Packages": {
+      "$path": "Packages"
+    },
+    "$path": "src"
+  }
+}
