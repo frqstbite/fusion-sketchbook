@@ -6,3 +6,5 @@ realm = "shared"
 
 [dependencies]
 Fusion = "elttob/fusion@0.2.0"
+Trove = "sleitnick/trove@1.0.1"
+Symbol = "sleitnick/symbol@2.0.1"

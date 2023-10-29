@@ -10,4 +10,14 @@ dependencies = []
 [[package]]
 name = "frqst/fusion-sketchbook"
 version = "0.1.0"
-dependencies = [["Fusion", "elttob/fusion@0.2.0"]]
+dependencies = [["Fusion", "elttob/fusion@0.2.0"], ["Symbol", "sleitnick/symbol@2.0.1"], ["Trove", "sleitnick/trove@1.0.1"]]
+
+[[package]]
+name = "sleitnick/symbol"
+version = "2.0.1"
+dependencies = []
+
+[[package]]
+name = "sleitnick/trove"
+version = "1.0.1"
+dependencies = []
