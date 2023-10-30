@@ -38,7 +38,6 @@ local function Provider(render, ...)
             local caller = debug.info(CALLER_LEVEL, "f")
             values[key] = values[key] or {}
             values[key][caller] = {value = value}
-            print(caller)
 
         elseif args[1] == INJECT_SYMBOL then --Inject
             local _, key = table.unpack(args)

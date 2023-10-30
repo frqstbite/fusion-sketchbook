@@ -36,6 +36,7 @@ DockWidget (WidgetId "sketchbook") {
     Size = Vector2.new(400, 300),
     Enabled = open,
     [Out "Enabled"] = open,
+    Title = "Sketchbook",
     [Children] = App {
         plugin = plugin,
     }
